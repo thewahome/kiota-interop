@@ -1,6 +1,6 @@
 ﻿# kiota-interop
 
-This is a sample project that demonstrates how to use the Kiota Interop functionality available in Kiota VS Code as it's own standalone feature while exposing the Kiota Builder methods to allow a user to depend on this project  
+This is a sample project that demonstrates how to use the [Kiota Interop](https://github.com/microsoft/kiota/blob/7237b3beca63a46a0b04ac5818d1c4ae3d0a6ea5/vscode/microsoft-kiota/src/kiotaInterop/index.ts#L12) functionality available in Kiota VS Code as it's own standalone feature while exposing the Kiota Builder methods to allow a user to depend on this project  
 
 ## Prerequisites
 
